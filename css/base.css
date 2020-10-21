@@ -344,7 +344,7 @@ tbody tr:nth-child(odd) th {
   color: white;
 }
 
-.fa-email {
-  background: #f6f8fa;
+.fa-envelope {
+  background: #c4c6c8;
   color: white;
 }
